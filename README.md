@@ -1,4 +1,4 @@
-# norminette-action demo &middot; ![norminette](https://github.com/alexandregv/norminette-action-demo/workflows/norminette/badge.svg)
+# norminette-action demo &middot; ![norminette](https://github.com/ricardoreves/norminette-action-demo/workflows/norminette/badge.svg)
 
 This is a simple demo for [norminette-action](https://github.com/alexandregv/norminette-action), a GitHub Action for 42School's norminette linter.
 
